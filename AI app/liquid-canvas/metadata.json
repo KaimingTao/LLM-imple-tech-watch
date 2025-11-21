@@ -1,0 +1,5 @@
+{
+  "name": "Liquid Canvas",
+  "description": "An interactive water simulation where mouse interactions create realistic propagating ripples using 2D canvas physics.",
+  "requestFramePermissions": []
+}
